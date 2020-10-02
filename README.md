@@ -1,2 +1,3 @@
 # csod-2019-vipulchhabra99
-Kindly Visit https://vipulchhabra99.github.io/csod-2019-vipulchhabra99/ for the report of CSOD Project Report
+Kindly Visit https://vipulchhabra99.github.io/csod-2019-vipulchhabra99/ for the report of CSOD Project Report.
+Do follow me on Twitter,Link in readme
